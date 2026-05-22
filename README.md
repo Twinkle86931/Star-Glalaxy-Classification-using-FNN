@@ -66,3 +66,12 @@ Potential future improvements include:
 * Applying semi-supervised learning techniques to leverage unlabeled survey data
 
 
+References
+https://www.sdss4.org/dr17/
+Asadi, V., et al. (2025). Semi-supervised machine learning for the classification of stars, galaxies, and quasars. The Astrophysical Journal, 989, 65.
+Chatterjee, D., & Ghosh, P. (2025). Redshift-Agnostic Machine Learning Classification: Unveiling Peak Performance in Galaxy, Star, and Quasar Classification (Using SDSS DR17). Astronomische Nachrichten.
+Clarke, A. O., et al. (2020). Identifying galaxies, quasars, and stars with machine learning: A new catalogue of classifications for 111 million SDSS sources without spectra. Astronomy & Astrophysics, 639, A84.
+Feng, H.-C., et al. (2024). Classification of KiDS: QSO-Star-Galaxy using Multimodal Neural Networks. arXiv preprint, 2406.03797.
+Kim, E. J., & Brunner, R. J. (2017). Star–galaxy classification using deep convolutional neural networks. Monthly Notices of the Royal Astronomical Society, 464, 4463-4475.
+Nakoneczny, S. J., et al. (2021). Photometric selection and redshifts for quasars in the Kilo-Degree Survey Data Release 4. Astronomy & Astrophysics, 649, A81.
+Zeraatgari, F. Z., et al. (2023). Machine learning-based photometric classification of galaxies, quasars, emission-line galaxies, and stars. Monthly Notices of the Royal Astronomical Society, 527(3), 4677-4689.
